@@ -1281,6 +1281,7 @@ input[type='radio'] { cursor:pointer; }
 	border-radius: 50%;
 	width: 10vh;
 	height: 10vh;
+	background-image: url("https://postimg.cc/QB5qpVRn");
 	animation: spin-animation 3s infinite linear, fadeIn 5s;
 	margin: 44vh auto;
 	cursor: help;
