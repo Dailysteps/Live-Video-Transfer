@@ -25,7 +25,7 @@
 	--advanced-mode: inline-block;
 	--background-main-image: url("https://iili.io/HEv8gRf.gif"");
 	--show-codirectors: inline-block;
-	--background-image: url("https://iili.io/HEv8gRf.gif");
+	--background-image: url ("https://iili.io/HEv8gRf.gif");
 }
 
 * {
